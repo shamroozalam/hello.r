@@ -1,2 +1,2 @@
-# hello.r
+# hello-r
 repo for r programming
